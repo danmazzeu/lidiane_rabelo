@@ -1,11 +1,11 @@
 :root {
     /* Colors */
-    --theme-color: #d8b891;
-    --theme-variation-color: #2e9894;
+    --theme-color: #9e4c20;
+    --theme-variation-color: #c29959;
     --primary-color: #000;
     --secondary-color: #555;
     --tertiary-color: #999;
-    --stars-color: #2e9894;
+    --stars-color: #c29959;
     --linkedin-color: #0a66c2;
     --instagram-color: linear-gradient(to right, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
     --whatsapp-color: #128c7e;
